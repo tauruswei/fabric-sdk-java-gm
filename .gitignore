@@ -1,0 +1,9 @@
+target
+*.swp
+*.swo
+*.class
+.idea/
+.gradle/
+*.iml
+*.resources.prefs
+.vscode
